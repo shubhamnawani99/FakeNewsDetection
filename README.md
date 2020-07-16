@@ -17,9 +17,7 @@ To design such system, we propose the development of an AI based software which 
 * Jupyter Notebook/Google Collaboratory  
 * Tensorflow deep learning and Scikit Learn framework  
 * Pandas  
-* Bi-directional Long-short term memory (BLSTM)  
-* HTML/CSS/JavaScript  
-* Flask  
+* Long-short term memory (LSTM)  
 
 # Dataset Used  
 Fake and real news dataset from Kaggle - https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset  
